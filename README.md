@@ -1,22 +1,24 @@
-# Snake & Ladders
+# Snake & Ladders :snake: :ladder:
 
 ## Project Description
 
 This project has made a twist on the classical boardgame Snake & Ladders made in SDL.
 
-There is implementation for 4 players over a network using IP communication.
+There is implementation for 4 players over a network using IP communication. :satellite:
 
 ## How to Install and Run the Project
 
-Download this Github folder and extract. Simply run the exe file to start the game within Snake&Ladders folder. 
+Download this Github folder and extract. Simply run the exe file to start the game within Snake&Ladders folder. :desktop_computer:
 
-However to initiate the game the Server must be running with 4 players to start!
+Works on all OS :computer:
+
+However to initiate the game the Server must be running with 4 players to start! :mailbox_with_mail:
 
 ## Credits
 
 Samuel Tegsten
 
-- Gitname: stegsten
+- Gitname: stegsten 
 
 ## License
 
