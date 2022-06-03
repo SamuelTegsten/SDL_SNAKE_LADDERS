@@ -1,7 +1,5 @@
 # Snake & Ladders :snake: :ladder:
 
-https://youtu.be/DtcIre-wRDc 
-
 ## Project Description
 
 This project has made a twist on the classical boardgame Snake & Ladders made in SDL.
@@ -29,3 +27,6 @@ Download at your will. All files necessary to edit is in GameCode (For the game 
 ServerCode (For the server code, port: 1234, ip: Entered in the starting screen of the game)
 
 External_SDL_libs has all the SDL files to edit/compile the code
+
+## Link to a showcase: 
+https://youtu.be/DtcIre-wRDc 
