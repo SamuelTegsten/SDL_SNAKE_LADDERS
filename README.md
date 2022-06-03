@@ -29,4 +29,4 @@ ServerCode (For the server code, port: 1234, ip: Entered in the starting screen 
 External_SDL_libs has all the SDL files to edit/compile the code
 
 ## Link to a showcase: 
-https://youtu.be/DtcIre-wRDc 
+[https://youtu.be/DtcIre-wRDc](https://www.youtube.com/watch?v=DtcIre-wRDc&t=13s) 
