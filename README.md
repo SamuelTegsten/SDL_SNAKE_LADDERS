@@ -14,12 +14,6 @@ Works on all OS :computer:
 
 However to initiate the game the Server must be running with 4 players to start! :mailbox_with_mail:
 
-## Credits
-
-Samuel Tegsten
-
-- Gitname: stegsten 
-
 ## License
 
 Download at your will. All files necessary to edit is in GameCode (For the game code)
